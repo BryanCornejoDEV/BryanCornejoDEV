@@ -18,20 +18,20 @@
 - 🌱 Learning about **DevOps, Cloud & Automation**
 - 💬 Ask me about **React, Laravel, Node.js, REST APIs**
 - 🎯 Goal: Building meaningful products through clean code
-- ☕ Fun fact: Coffee and dark mode fuel my workflow
+- ☕ Fun fact: Coffee and dark mode fuel my workflow!
 
 ---
 
 ### 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/bryancornejo" target="_blank">
+  <a href="https://www.linkedin.com/in/bryan-steven-cornejo-zavala-98484b235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/>
   </a>
   <a href="mailto:bryancornejo.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-f2f2f2?style=for-the-badge&logo=gmail&logoColor=0d0d0d"/>
   </a>
-  <a href="https://github.com/bryancornejo" target="_blank">
+  <a href="https://github.com/BryanCornejoDEV" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=f2f2f2"/>
   </a>
 </p>
@@ -47,12 +47,12 @@
 
 #### 🧩 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,vercel,php,laravel,mysql,postgresql&theme=light"/>
 </p>
 
 #### ☁️ Dev & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,linux&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman&theme=light"/>
 </p>
 
 ---
@@ -67,14 +67,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryancornejo&background=f2f2f2&stroke=0d0d0d&ring=0d0d0d&fire=0d0d0d&currStreakLabel=0d0d0d&sideNums=333333&currStreakNum=0d0d0d&sideLabels=333333&dates=666666&hide_border=true)
 
 </div>
-
----
-
-### 🧩 Current Focus
-> “Simplicity is the ultimate sophistication.”  
-> — Striving to write elegant, functional, and timeless code.
-
----
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer)
