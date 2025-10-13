@@ -62,10 +62,10 @@
 
 <div align="center">
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryancornejo&theme=transparent&title_color=000000&text_color=000000&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryancornejo&show_icons=true&theme=transparent&title_color=000000&text_color=000000) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryancornejo&layout=compact&theme=github_dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryancornejo&show_icons=true&theme=github_dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true) |
 |:---:|:---:|
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryancornejo&theme=black-ice&hide_border=true&stroke=000&background=fff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryancornejo&theme=black-ice&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=aaaaaa)
 
 </div>
 
