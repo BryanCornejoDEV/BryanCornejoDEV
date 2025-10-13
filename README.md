@@ -1,25 +1,24 @@
 <!-- Banner principal -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Bryan%20Cornejo%20💻&fontColor=ffffff&fontSize=50&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=Bryan%20Cornejo%20💻&fontColor=f2f2f2&fontSize=50&animation=fadeIn)
 
-<h3 align="center">Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer · Tech Enthusiast · Problem Solver</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Black?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Development-white?style=flat&logo=github&logoColor=black"/>
-  <img src="https://komarev.com/ghpvc/?username=bryancornejo&label=Profile%20Views&color=000000&style=flat"/>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-f2f2f2?style=flat&logo=github&logoColor=0d0d0d"/>
+  <img src="https://komarev.com/ghpvc/?username=bryancornejo&label=Profile%20Views&color=0d0d0d&style=flat"/>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-👋 Hi there! I’m **Bryan Cornejo**, a developer passionate about building scalable applications, clean interfaces, and efficient solutions.
+👋 Hi there! I’m **Bryan Cornejo**, a passionate developer focused on creating scalable, modern, and visually clean digital solutions.
 
-- 🚀 Currently working on **modern web and mobile projects**
-- 🌱 Constantly learning about **DevOps & Cloud Computing**
-- 💬 Ask me about **React, Laravel, Node.js, or REST APIs**
-- 🎯 Goal: To create meaningful digital experiences
-- ⚡ Fun fact: I debug faster with good coffee ☕
+- 🚀 Currently building **modern full-stack projects**
+- 🌱 Learning about **DevOps, Cloud & Automation**
+- 💬 Ask me about **React, Laravel, Node.js, REST APIs**
+- 🎯 Goal: Building meaningful products through clean code
+- ☕ Fun fact: Coffee and dark mode fuel my workflow
 
 ---
 
@@ -27,13 +26,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/bryancornejo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=f2f2f2"/>
   </a>
   <a href="mailto:bryancornejo.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/Email-f2f2f2?style=for-the-badge&logo=gmail&logoColor=0d0d0d"/>
   </a>
   <a href="https://github.com/bryancornejo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=f2f2f2"/>
   </a>
 </p>
 
@@ -43,17 +42,17 @@
 
 #### 💻 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=light"/>
 </p>
 
 #### 🧩 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql,mongodb&theme=light"/>
 </p>
 
 #### ☁️ Dev & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman,linux&theme=light"/>
 </p>
 
 ---
@@ -62,20 +61,20 @@
 
 <div align="center">
 
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryancornejo&layout=compact&theme=github_dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryancornejo&show_icons=true&theme=github_dark&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bryancornejo&layout=compact&theme=graywhite&title_color=0d0d0d&text_color=333333&bg_color=f2f2f2&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bryancornejo&show_icons=true&theme=graywhite&title_color=0d0d0d&text_color=333333&icon_color=0d0d0d&bg_color=f2f2f2&hide_border=true) |
 |:---:|:---:|
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryancornejo&theme=black-ice&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=aaaaaa)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bryancornejo&background=f2f2f2&stroke=0d0d0d&ring=0d0d0d&fire=0d0d0d&currStreakLabel=0d0d0d&sideNums=333333&currStreakNum=0d0d0d&sideLabels=333333&dates=666666&hide_border=true)
 
 </div>
 
 ---
 
 ### 🧩 Current Focus
-> “Great code is poetry in motion.”  
-> — Striving to merge design, logic, and usability in every project.
+> “Simplicity is the ultimate sophistication.”  
+> — Striving to write elegant, functional, and timeless code.
 
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=100&section=footer)
