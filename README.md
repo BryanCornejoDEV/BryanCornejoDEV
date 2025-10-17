@@ -1,7 +1,7 @@
 <!-- Banner principal -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=200&section=header&text=Bryan%20Cornejo%20💻&fontColor=f2f2f2&fontSize=50&animation=fadeIn)
 
-<h3 align="center">Full Stack Developer · Tech Enthusiast · Problem Solver</h3>
+<h3 align="center">Full Stack Developer · Tech Enthusiast · Problem Solver </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Software%20Development-f2f2f2?style=flat&logo=github&logoColor=0d0d0d"/>
